@@ -3,7 +3,7 @@
 
 1.	Make sure that you have the necessary dependencies installed: cv2, MediaPipe, NumPy, and timeit.
 
-2.	Run the script using the python interpreter: python script_name.py
+2.	Run the script using the python interpreter: python test.py
 
 3.	The script uses the OpenCV library to read a video file called "KneeBendVideo.mp4" and the MediaPipe library to detect key points in the video.
 
